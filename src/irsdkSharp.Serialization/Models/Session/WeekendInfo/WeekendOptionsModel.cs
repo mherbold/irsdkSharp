@@ -29,6 +29,6 @@
         public int NumJokerLaps { get; set; }
         public string IncidentLimit { get; set; }
         public string FastRepairsLimit { get; set; }
-        public int GreenWhiteCheckeredLimit { get; set; }
+        public string GreenWhiteCheckeredLimit { get; set; }
     }
 }
